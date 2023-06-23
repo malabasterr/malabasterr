@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="gifhere" width="100"/>
+  <img src="output-onlinegiftools.gif" width="100"/>
 </div>
