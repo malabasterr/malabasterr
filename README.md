@@ -9,9 +9,9 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a full stack Developer in training from the United Kingdom.
+I am a full stack developer in training from the United Kingdom.
 
-- :mortar_board: I’m currently undertaking a full stack bootcamp with Code First Girls, finishing in September.
+- :mortar_board: I’m currently undertaking a full stack bootcamp with Code First Girls, finishing in September
   
 - :computer: I am looking for opportunities to work as a junior fullstack developer from September 2023
 
