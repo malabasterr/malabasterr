@@ -7,8 +7,7 @@
 </div>
 
 <div>
-  <img src="javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <picture>
+  <picture width="40" height="40">
   <source media="(prefers-color-scheme: dark)" srcset="javascript.svg">
   <source media="(prefers-color-scheme: light)" srcset="javascript.svg">
   <img alt="JavaScript logo" src="javascript.svg">
