@@ -7,12 +7,17 @@
 </div>
 
 <div>
-  <img src="javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;  
+  <img src="javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="javascript.svg">
+  <source media="(prefers-color-scheme: light)" srcset="javascript.svg">
+  <img alt="JavaScript logo" src="javascript.svg">
+</picture>
   <img src="react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="html5.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="css3.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="mysql.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;  
+  <img src="mysql.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
 ---
