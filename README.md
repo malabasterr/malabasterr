@@ -10,6 +10,7 @@
   <picture>
     <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="JS%20white.svg">
     <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="javascript.svg">
+    <img width="40" height="40" alt="JavaScript logo" src="javascript.svg">
   </picture>
   <picture>
     <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="React%20white.svg">
