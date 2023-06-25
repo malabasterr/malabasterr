@@ -7,10 +7,12 @@
 </div>
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;  
+  <img src="react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="html5.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="css3.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="mysql.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;  
 </div>
 
 ---
