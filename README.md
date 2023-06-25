@@ -7,10 +7,10 @@
 </div>
 
 <div>
-  <picture width="40" height="40">
-  <source media="(prefers-color-scheme: dark)" srcset="javascript.svg">
-  <source media="(prefers-color-scheme: light)" srcset="javascript.svg">
-  <img alt="JavaScript logo" src="javascript.svg">
+  <picture>
+  <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="javascript.svg">
+  <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="javascript.svg">
+  <img width="40" height="40" alt="JavaScript logo" src="javascript.svg">
 </picture>
   <img src="react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
