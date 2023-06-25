@@ -50,7 +50,7 @@ I am a full stack developer in training from the United Kingdom.
 
 - :seedling: So far I have studied JavaScript, React, HTML, CSS, Python and SQL. 
 
-- :game_die: In my free time, I enjoy board games and creating puzzles and games for my friends
+- :game_die: In my free time, I enjoy board games and creating puzzles & games for my friends
 
 - :mailbox: How to reach me:<a href="https://www.linkedin.com/in/madeleine-alabaster/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
