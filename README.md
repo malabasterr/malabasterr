@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="output-onlinegiftools.gif" width="150"/>
+  <img src="output-onlinegiftools.gif" width="180"/>
   <h1>
     Hi there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
