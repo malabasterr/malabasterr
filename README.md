@@ -8,15 +8,35 @@
 
 <div>
   <picture>
-  <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="javascript.svg">
-  <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="javascript.svg">
-  <img width="40" height="40" alt="JavaScript logo" src="javascript.svg">
-</picture>
-  <img src="react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="html5.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="css3.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="mysql.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="JS white.svg">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="javascript.svg">
+    <img width="40" height="40" alt="JavaScript logo" src="javascript.svg">
+  </picture>
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="React white.svg">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="react.svg">
+    <img width="40" height="40" alt="React logo" src="react.svg">
+  </picture>
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="Python white.svg">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="python.svg">
+    <img width="40" height="40" alt="Python logo" src="python.svg">
+  </picture>
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="HTML white.svg">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="html5.svg">
+    <img width="40" height="40" alt="HTML 5 logo" src="html5.svg">
+  </picture>
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="CSS white.svg">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="css3.svg">
+    <img width="40" height="40" alt="CSS 3 logo" src="css3.svg">
+  </picture>
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="MySQL white.svg">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="mysql.svg">
+    <img width="40" height="40" alt="MySQL logo" src="mysql.svg">
+  </picture>
 </div>
 
 ---
