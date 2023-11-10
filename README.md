@@ -42,13 +42,13 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a full stack developer in training from the United Kingdom.
+I am a full stack developer from the United Kingdom.
 
-- :mortar_board: I’m currently undertaking a full stack bootcamp with Code First Girls, finishing in September
+- :mortar_board: I’ve recently completed the full stack bootcamp with Code First Girls
   
-- :computer: I am looking for opportunities to work as a junior fullstack developer from September 2023
+- :computer: I am actively looking for my first job as a full stack developer or frontend developer
 
-- :seedling: So far I have studied JavaScript, React, HTML, CSS, Python and SQL. 
+- :seedling: I have studied JavaScript, React, HTML, CSS, Python and SQL. 
 
 - :game_die: In my free time, I enjoy board games and creating puzzles & games for my friends
 
