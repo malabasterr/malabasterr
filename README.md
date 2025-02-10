@@ -44,9 +44,9 @@
 ### :woman_technologist: About Me :
 I am a full-stack developer from the United Kingdom.
 
-- :mortar_board: I’ve recently completed the full-stack bootcamp with Code First Girls
+- :mortar_board: I’ve completed the full-stack bootcamp with Code First Girls and have a BSc in Mathematics
   
-- :computer: I am actively looking for my first job as a full-stack developer or frontend developer
+- :computer: After a career break due to caring responsibilities and bereavement, I am actively looking for my next job as a full-stack developer or frontend developer
 
 - :seedling: I have studied JavaScript, React, HTML, CSS, Python and SQL. 
 
